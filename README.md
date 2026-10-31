@@ -27,12 +27,12 @@ A powerful and easy-to-use Discord music bot with support for YouTube, Spotify, 
 • Optional logs channel for bot events  
 
 # **Commands**    
-**Category**   	                  **Commands**      
-Playback	                     /play, /pause, /resume, /skip, /previous, /seek, /voteskip, /stop, /volume    
-Queue	                        /queue, /nowplaying, /shuffle, /loop, /remove, /move, /clearqueue, /history     
-Modes and filters	            /247, /autoplay, /filter, /clearfilters    
-Extras	                     /lyrics, /djrole (admin), /restart (admin)    
-Info	                        /stats, /uptime, /ping, /invite, /support, /help    
+**Category**   	                  **Commands**               
+Playback	                     /play, /pause, /resume, /skip, /previous, /seek, /voteskip, /stop, /volume               
+Queue	                        /queue, /nowplaying, /shuffle, /loop, /remove, /move, /clearqueue, /history               
+Modes and filters	            /247, /autoplay, /filter, /clearfilters                
+Extras	                     /lyrics, /djrole (admin), /restart (admin)                      
+Info	                        /stats, /uptime, /ping, /invite, /support, /help                       
 
 ## Getting Started
 
